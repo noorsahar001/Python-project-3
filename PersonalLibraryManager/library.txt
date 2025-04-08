@@ -1,0 +1,2 @@
+[{"title": "weird stuff", "author": "Richard Tulloch", "year": "2004", "genre": "Fantasy","read": false}, 
+ {"title":"2", "author": "3", "year": "6", genre": "", read": false}]
